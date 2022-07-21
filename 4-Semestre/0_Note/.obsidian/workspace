@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "a8b8c06dcd42dd34",
+    "type": "split",
+    "children": [
+      {
+        "id": "88a231ba27ce7a51",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SO-teo.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06f287c58fc3e444",
+    "type": "split",
+    "children": [
+      {
+        "id": "6966df6d34571b4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d4d030c2473a546",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9381197c64c245db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3792aa0a83286086",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d7adfc2fd41f037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b0b8a9b07818eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SO-teo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "88a231ba27ce7a51",
+  "lastOpenFiles": [
+    "SO-teo.md"
+  ]
+}
