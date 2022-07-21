@@ -1,4 +1,4 @@
-# UniTN Informatica triennale: appunti 2019-2022
+# UniTN Informatica triennale: appunti 2020-2022
 
 Appunti delle lezioni dei corsi di laurea triennale di informatica, da febbraio 2019 a giugno 2022.
 
