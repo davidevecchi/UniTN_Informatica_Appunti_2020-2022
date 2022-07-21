@@ -10,3 +10,11 @@ Tra essi emergono però gli appunti di Introduction to Machine Learning (`6-Seme
 Non assicuro che in fututo sistemerò anche gli altri appunti bene come quelli di IML, però con calma ci proverò.
 
 Detto ciò, studia bene le note di IML, ma non fare troppo affidamento agli altri.
+
+### Contatti
+
+Ecco qui qualche contatto per qualsiasi segnalazione o per comunicare la tua volontà di collaborare per migliorare la repo.
+
+- Telegram: [davide2e3](https://t.me/davide2e3)
+- Mail: [davide.vecchi@studenti.unitn.it](mailto:davide.vecchi@studenti.unitn.it)
+- GitHub: [davidevecchi](https://github.com/davidevecchi)
